@@ -1,0 +1,17 @@
+header img {
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px;
+  border-radius: 50%;
+}
+header {
+  background-color: #263d36;
+  background-image: url('images/background.jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  padding: 10vw 2em;
+  text-align: center;
+}
